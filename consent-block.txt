@@ -2,3 +2,4 @@
 # Curated from my own log and some more sources online.
 
 0.0.0.0 consent.yahoo.com
+0.0.0.0 widget.clym-sdk.net
