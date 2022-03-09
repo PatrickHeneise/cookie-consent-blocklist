@@ -1,4 +1,4 @@
-# screw your cookies
+# screw cookie consent popups
 # Curated from my own log
 
 0.0.0.0 consent.yahoo.com
