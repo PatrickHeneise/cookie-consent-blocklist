@@ -1,5 +1,5 @@
-# no more questions
-# Curated from my own log and some more sources online.
+# screw your cookies
+# Curated from my own log
 
 0.0.0.0 consent.yahoo.com
 0.0.0.0 widget.clym-sdk.net
