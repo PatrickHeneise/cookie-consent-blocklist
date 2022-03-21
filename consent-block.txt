@@ -6,7 +6,7 @@
 0.0.0.0 s.yimg.com
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 consentcdn.cookiebot.com
-0.0.0.0 *.mgr.consensu.org
+0.0.0.0 quantcast.mgr.consensu.org
 
 # from https://raw.githubusercontent.com/zoellner/cookie-monster/main/data/germany.csv
 0.0.0.0 notice.sp-stage.net
