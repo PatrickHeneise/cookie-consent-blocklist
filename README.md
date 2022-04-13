@@ -4,7 +4,7 @@ There are plenty of block lists like [OISD](https://oisd.nl), [StevenBlack](http
 
 Governments tried to stop all of this crap with their Cookie Laws, but their implementation has lead to something more annoying than Ad Popups from the 90s: Cookie Consent Popups. Those are not just annoying to internet users in the EU, but also expensive to the companies (GDPR/CCPA implementation etc.). 
 
-Luckily, there are a few services around that help companies with GDPR/CCPA/Cookie Consent. These services make it easy and cheap to comply to laws, so a lot of companies have decided to outsource their cookie and privacy management to these companies, such as Clym.io, Cookielaw.org, Cookiebot.com etc.
+Luckily, there are a few services around that help companies with GDPR/CCPA/Cookie Consent. These make it easy and cheap to comply to laws and regulations, so a lot of companies have decided to outsource their cookie and privacy management to these companies, such as Clym.io, Cookielaw.org, Cookiebot.com etc.
 
 **Lucky for us** users in Europe: blocking these cookie consent providers means the Cookie Consent popup fails to load, means you don't have to search for those tiny little "Deny All"/"Reject All" buttons through a dozen different menus before you can actually see the content of the site. 
 
