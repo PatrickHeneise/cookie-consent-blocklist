@@ -3,7 +3,6 @@
 
 0.0.0.0 consent.yahoo.com
 0.0.0.0 widget.clym-sdk.net
-0.0.0.0 s.yimg.com
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 consentcdn.cookiebot.com
 0.0.0.0 quantcast.mgr.consensu.org
